@@ -1,0 +1,15 @@
+@use 'custom' as *;
+
+html{
+    cursor: pointer;
+}
+body{
+    overflow-y: hidden;
+}
+#banner{
+    height: 100vh;
+}
+.hide{
+    display: none;
+    visibility: hidden;
+}
